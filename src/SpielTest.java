@@ -5,7 +5,6 @@ public class SpielTest {
         char[][] spielFeld = new char[5][5];
         Spiel ob1 = new Spiel(spielFeld);
 
-// hallo das ist neu
         /**for (int i = 0; i < spielFeld.length; i++){
             for (int k = 0; k < spielFeld.length; k++){
                 System.out.println("Zeile i: "+i);
